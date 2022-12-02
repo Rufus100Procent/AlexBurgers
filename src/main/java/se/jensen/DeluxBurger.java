@@ -16,7 +16,7 @@ public class DeluxBurger extends Burger{
 
     @Override
     public double getTotalPrice() {
-        return super.getTotalPrice();
+        return super.getTotalPrice() + 0.1;
     }
 
 

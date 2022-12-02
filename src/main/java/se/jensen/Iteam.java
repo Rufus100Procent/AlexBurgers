@@ -9,19 +9,16 @@ public class Iteam {
 
 
     public String getName(){
-        return "give me name";
+        return getName();
     }
 
     public double getBasePrice(){
-        return 3.2;
+        return getBasePrice();
     }
 
     public void printIteam(){
 
-        System.out.println(" / note: Heaven Burger");
-        System.out.println("/ note: walcame to wizard burger king");
-        System.out.println("/  note : spicy Burger");
-        System.out.println("");
+       System.out.println(getName() + "" + this.price) ;
 
     }
 }

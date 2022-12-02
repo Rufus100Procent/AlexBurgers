@@ -16,11 +16,14 @@ public class Burger  extends Iteam{
 
     @Override
     public String getName() {
-        return super.getName();
+        return super.getName() + "Burger";
+
     }
 
-    public double getTotalPrice(){
-        return 0.0;
+    public double getTotalPrice( ){
+
+        return getBasePrice() + 0.2;
+
     }
 
     public void setTopping(Iteam topping1 , Iteam topping2) {

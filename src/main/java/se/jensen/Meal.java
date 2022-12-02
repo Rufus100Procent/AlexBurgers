@@ -11,7 +11,7 @@ public class Meal {
 
 
     public double getTotalPrice(){
-        return 0.0;
+        return getTotalPrice();
     }
 
     public void printMeal(){

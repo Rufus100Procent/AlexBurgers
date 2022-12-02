@@ -4,22 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a42c3e4-e36b-434c-a6cd-4ddd43f92a00" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/jensen/Burger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/jensen/DeluxBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/jensen/Drink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/jensen/Iteam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/jensen/IteamType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/jensen/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/jensen/Meal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/jensen/SideDish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/se/jensen/Topping.java" afterDir="false" />
+    <list default="true" id="0a42c3e4-e36b-434c-a6cd-4ddd43f92a00" name="Changes" comment="&quot;changes&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se/jensen/Meal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se/jensen/Meal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +30,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/stykle/IdeaProjects/AlexBurgers/src/main/java/se/jensen"
+    "last_opened_file_path": "/home/stykle/IdeaProjects/AlexBurgers/src/main/java/se/jensen",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -60,6 +50,14 @@
       <option name="presentableId" value="Default" />
       <updated>1669956492750</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;changes&quot;">
+      <created>1669957923173</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669957923173</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -72,5 +70,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;changes&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;changes&quot;" />
   </component>
 </project>

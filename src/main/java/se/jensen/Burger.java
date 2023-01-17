@@ -5,6 +5,7 @@ public class Burger  extends Iteam{
     private Iteam topping1;
     private Iteam topping2;
     private Iteam dtopping2;
+    private Iteam tdtopping2;
 
     public Burger(String spacialburger, int price) {
         super();

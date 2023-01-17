@@ -8,6 +8,7 @@ public class DeluxBurger extends Burger{
     }
 
     private Iteam extra;
+    private Iteam dextra;
 
     public DeluxBurger(DeluxBurger deluxeBurger, Iteam drinks, Iteam sideDish2) {
         super(deluxeBurger, drinks, sideDish2);
